@@ -67,9 +67,9 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> Тут напрврление</strong>Тут назвадние и годы
+                  <strong>Bachelor of Computer Science (BCompSc), Computer science</strong><br />Kazakh-British Technical University (2020-2024)
                 </li>
-                <li>курсовая работа</li>
+                <li>System programming</li>
               </ul>
             </div>
           </div>
